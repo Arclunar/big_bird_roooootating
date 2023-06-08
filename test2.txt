@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 fuck you 
 fuck me
-=======
+
 fuck you
 fuck him 
->>>>>>> test_branch_2
+
